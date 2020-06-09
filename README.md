@@ -4,7 +4,7 @@
 
 Developed a TodoList application which would be helpful in remembering and adding important day to day tasks.
 
-This application was developed using Google’s Firebase API to authenticate the user Login and store his/her to-do’s into the application’s Firebase Fire store Database Directory.
+This application was developed using Google’s Firebase API to authenticate the user Login and store his/her to-do’s into the application’s Firebase Firestore Database Directory.
 
 The user would also be able to prioritize his/her tasks based upon his preference.
 
